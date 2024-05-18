@@ -149,6 +149,10 @@ table th{
     padding: 20px;
 }
 
+table tr:nth-child(even) {
+    background-color: #7dccfa86;
+  }
+
 table{
     border-collapse: collapse;
     width: 100%;
