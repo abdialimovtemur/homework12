@@ -178,3 +178,8 @@ table td{
     font-size: 17px;
     align-items: center;
 }
+
+.bell-img{
+    display: flex;
+    align-items: center;
+}
